@@ -1,3 +1,7 @@
+# control panel for arduino
+# todo - use argparse, make digital input
+# and analog input/output
+
 import serial
 import time
 ser = serial.Serial('COM7', 9600, timeout=0)

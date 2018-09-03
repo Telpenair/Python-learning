@@ -1,3 +1,8 @@
+# learning about great instruments: JSON, argparse
+# learning argparse pulls me to make in windows prompt 
+# my control panel for arduino 
+# interesting use of temp files, take on mind 
+
 import os
 import tempfile
 import json
