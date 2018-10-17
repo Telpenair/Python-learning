@@ -1,3 +1,5 @@
+# just stair with using #
+
 import sys
 num_steps = int(sys.argv[1])
 
